@@ -2,7 +2,7 @@
 Welcome! This repository contains various types of metadata related
 to content provided by HebrewBooks.org. More informatiion about this
 data can be found on our developer site:
-https://developers.hebrewbooks.org/data
+- https://developers.hebrewbooks.org/data
 
 ## Development information
 TBD
